@@ -2,5 +2,5 @@
 docker with curl.
 
 ```bash
-docker push bkrmdahal/docker_curl
+docker pull bkrmdahal/docker_curl
 ```
